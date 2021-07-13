@@ -1,0 +1,33 @@
+#top {
+padding: 0 0px
+}
+
+/* 공통 */
+.common{
+
+  text-decoration: none;
+  color: #000000;
+  list-style:none;
+
+}
+
+/* 공구추가 */
+header .top_left li{
+
+  display:inline-block;
+  position:  absolute;
+  left: 50px; top: 20px;
+}
+
+
+header .top_right li{
+  display:inline-block;
+  position:  absolute;
+  right: 50px; top: 20px;
+
+
+}
+
+.hide {
+  position: absolute; left: -5000px}
+}
